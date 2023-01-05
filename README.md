@@ -1,2 +1,2 @@
 # Parallel-Programming-Repo
-Some projects i did about parallel programming in University of Cyprus
+In this repository are some projects i did about paraller computing in the course CS325 Parallel Processing, in University of Cyprus I created some parallel programs to solve the K-means problem in some different languages and architectures, like in pthread in c, SIMD, CUDA.  I parallelized the part of the serial code that used the most of the resources and time after the research i conducted during the course
